@@ -1,12 +1,9 @@
-# Welcome to the OFN User Guide
+# Welcome to the GrownHere Platform Guide
 
 | Language version                                                                       | Link to the user guide                 |
 | -------------------------------------------------------------------------------------- | -------------------------------------- |
 | <img src=".gitbook/assets/capture-du-2019-09-26-00-38-19.png" alt="" data-size="line"> | _You are reading the English version!_ |
-|                                                                                        |                                        |
-|                                                                                        |                                        |
-|                                                                                        |                                        |
-|                                                                                        |                                        |
+|                                                                                        | Coming soon!                           |
 
 **This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and short food chains wherever you live.**
 
@@ -14,7 +11,7 @@
 
 The Open Food Network enables local people to build better, fairer ways to source their food locally and directly from growers, farmers and producers. Expansive networks of small food producers, distributors, retailers, food hubs, food co-ops and buying groups can come together with the aid of the Open Food Network to find the best way of shortening the food supply chain. And in the process it helps to build strong communities.
 
-The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact](local-ofn-organizations-and-contacts.md) to learn more about us!
+The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact](broken-reference) to learn more about us!
 
 This short video will give you a brief introduction to how the Open Food Network works, and what we can do for your food business, or organisation.
 
@@ -58,4 +55,4 @@ Looking for information on something specific? Use the search bar in the top rig
 
 ## Feedback
 
-Any problems with our user guide? Is there any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local OFN entity](local-ofn-organizations-and-contacts.md), we'd love to hear your feedback.
+Any problems with our user guide? Is there any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local OFN entity](broken-reference), we'd love to hear your feedback.

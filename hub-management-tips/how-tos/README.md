@@ -2,7 +2,7 @@
 
 In this section, we seek to show by a series of step-by-step examples how you can combine different [features](../../basic-features/) of the OFN platform to operate your business in exactly the way that suites you.
 
-This list is not exhaustive and may not cover your specific scenario. Remember you can always get in touch with your [local instance support team](../../local-ofn-organizations-and-contacts.md) for more guidance or seek advice from peers in instance specific [community forums](https://community.openfoodnetwork.org.uk/), user [Facebook Groups](https://www.facebook.com/groups/thrivingfoodhub) etc.
+This list is not exhaustive and may not cover your specific scenario. Remember you can always get in touch with your [local instance support team](broken-reference) for more guidance or seek advice from peers in instance specific [community forums](https://community.openfoodnetwork.org.uk/), user [Facebook Groups](https://www.facebook.com/groups/thrivingfoodhub) etc.
 
 ### Enterprise/Shopfront Management
 

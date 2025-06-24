@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Welcome to the OFN User Guide](README.md)
-* [Local OFN organisations and contacts](local-ofn-organizations-and-contacts.md)
+* [Welcome to the GrownHere Platform Guide](README.md)
 * [Where does my business fit in OFN?](your-quick-start-on-ofn-given-who-you-are.md)
 * [Quick Start Guides](quick-start-guides/README.md)
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
@@ -57,7 +56,7 @@
     * [Reports for Bulk Order Management](basic-features/reports/reports-for-bulk-order-management.md)
     * [Reports for Hub Management](basic-features/reports/reports-for-hub-management.md)
     * [Packing Reports](basic-features/reports/packing-reports.md)
-    * [Payment  Reports](basic-features/reports/payment-and-tax-reports.md)
+    * [Payment Reports](basic-features/reports/payment-and-tax-reports.md)
     * [Tax Reports](basic-features/reports/payment-and-tax-reports-1.md)
     * [OFN Invoices](basic-features/reports/view-orders.md)
     * [Xero Invoices](basic-features/reports/payment-and-tax-reports-2.md)
