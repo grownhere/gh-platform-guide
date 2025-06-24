@@ -33,8 +33,8 @@ The page has filters which allow you to select which orders you want to view. Yo
 
 ![](<../../.gitbook/assets/balance due.jpg>)
 
-* Paid: For automated payments (PayPal, Stripe SCA, PIN for instance), the payment portal will automatically mark an order as 'paid' when it has been processed. \
-  Non-automated payments (cash, bank transfer etc.) will also be marked as 'paid' when the payment has been marked as captured manually (see [Changing the Payment and Shipment state of an order](view-orders.md#payment-and-shipment-state)).&#x20;
+* Paid: For automated payments (PayPal, Stripe SCA, PIN for instance), the payment portal will automatically mark an order as 'paid' when it has been processed.\
+  Non-automated payments (cash, bank transfer etc.) will also be marked as 'paid' when the payment has been marked as captured manually (see [Changing the Payment and Shipment state of an order](view-orders.md#payment-and-shipment-state)).
 * Credit Owed: If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
 
 ![](<../../.gitbook/assets/credit owed.jpg>)
@@ -49,7 +49,7 @@ The page has filters which allow you to select which orders you want to view. Yo
 You can ONLY manually update an order to 'shipped' if the payment state is 'paid' or 'credit owed'.
 {% endhint %}
 
-**Customer email:** The customer’s contact email.&#x20;
+**Customer email:** The customer’s contact email.
 
 **Customer name:** written in the format of 'Surname-comma-first name'
 
@@ -59,7 +59,7 @@ You can ONLY manually update an order to 'shipped' if the payment state is 'paid
 
 Next to each order in the Order list are two icons. Clicking on the edit icon (a pencil and paper symbol) will open up details of the order so that you can review or edit the order details. Below the edit icon will be one of two icons. These icons show the payment and shipment status, and can be clicked to change the status. If a payment has not been received, the icon will show a tick which can be clicked to capture the payment. If payment has been received, the icon will be a road, which can be clicked to mark the order as delivered.
 
-* Clicking on the tick icon (highlighted in red below) will change the Payment State to **Paid**.&#x20;
+* Clicking on the tick icon (highlighted in red below) will change the Payment State to **Paid**.
 * Clicking on the road icon (highlighted in green below) will change the Shipment state to **Shipped**.
 
 ![](<../../.gitbook/assets/orders capture.jpg>)
@@ -70,13 +70,11 @@ The payment and shipping status of an order can also be updated when editing the
 
 #### Capturing a Payment
 
-Capturing a payment will mark it as received. This is helpful if customers do not pay when they order. When you receive cash or a bank transfer from the customer, you can then go in to the Order Listing and capture the payment. To quickly capture a payment as received, or mark that an order has been shipped, you can click on the tick or road icons to the right of the order in the Order List. &#x20;
+Capturing a payment will mark it as received. This is helpful if customers do not pay when they order. When you receive cash or a bank transfer from the customer, you can then go in to the Order Listing and capture the payment. To quickly capture a payment as received, or mark that an order has been shipped, you can click on the tick or road icons to the right of the order in the Order List.
 
 Note that this will capture the full amount of the order as paid. if you want to review the order details before capturing a payment, you can select the edit icon to the right of the Order you wish to review. In the Order Details screen, click on Payments to see the Balance owing and Payment Status for this order. From here you can click on the tick to capture the payment. Once captured, the Payment Status will change to Completed.
 
 ![](<../../.gitbook/assets/payments capt.jpg>)
-
-&#x20;&#x20;
 
 {% hint style="danger" %}
 When a shop or hub manager updates the 'Shipment state' to 'shipped' _**this will automatically send the customer an email**_ to say that their products have been shipped, irrespective of the shipping method. Hence it can cause confusion for orders due to be collected (rather than shipped).\
@@ -85,7 +83,7 @@ Another source of potential confusion to be aware of is when customers pay for a
 
 ### **Editing an order**
 
-To the right of an order you will see a pen and paper icon.  Click on this to access the order management page where you can edit, modify and cancel an order.
+To the right of an order you will see a pen and paper icon. Click on this to access the order management page where you can edit, modify and cancel an order.
 
 This is what the order management page looks like:
 
@@ -101,7 +99,7 @@ A customer may contact you and ask to have their groceries delivered rather than
 
 ![](<../../.gitbook/assets/edit shipping 1.jpg>)
 
-You then have access to all available shipping methods. Select the one your customer wishes to change to. &#x20;
+You then have access to all available shipping methods. Select the one your customer wishes to change to.
 
 ![](<../../.gitbook/assets/edit shipping 2.jpg>)
 
@@ -120,7 +118,7 @@ Customers may add notes to orders at checkout, such as where to leave a parcel i
 ![](<../../.gitbook/assets/actions (1).jpg>)
 
 * **Resend Confirmation**: If you have edited a customer's order, you may wish to resend them an updated order confirmation email.
-* **Send Invoice**: This will automatically send the customer an [invoice](../reports/view-orders.md) (in .pdf format) by email. Sending an invoice is purely for record keeping purposes, and does not facilitate payment.&#x20;
+* **Send Invoice**: This will automatically send the customer an [invoice](../reports/view-orders.md) (in .pdf format) by email. Sending an invoice is purely for record keeping purposes, and does not facilitate payment.
 * **Print Invoice:** This will generate the[ invoice](../reports/view-orders.md) in the form of a pdf for printing.
 * **Cancel Order:** Cancel the order. It is important to process any refunds or adjustments to an order before cancelling it. **A cancelled order can not be edited or refunded.**
 
@@ -136,7 +134,7 @@ Customer information (email, billing, shipping addresses and phone numbers) are 
 
 #### **Modify an Order or Record Partial Payment**
 
-Click on 'Adjustments' in the right hand menu (screen shot above).  On this page you can add or subtract from the order total by selecting the **+ New Adjustment button**.
+Click on 'Adjustments' in the right hand menu (screen shot above). On this page you can add or subtract from the order total by selecting the **+ New Adjustment button**.
 
 ![](<../../.gitbook/assets/adjustments 1 (1).jpg>)
 
@@ -144,7 +142,7 @@ You may wish to use this functionality to:
 
 * grant a discount on an order if a product is damaged
 * deduct credit owed to the customer from their total balance
-* refund a customer&#x20;
+* refund a customer
 * record a partial payment
 * see [Refunding and Adjusting Payments](refunds-and-adjusting-payments.md) for more information about making adjustments to orders
 
@@ -175,7 +173,7 @@ Rows ('Name', 'Producer', 'Product: Unit') can be sorted according to their cont
 {% endhint %}
 
 {% hint style="warning" %}
-The **Price** column indicates price of an item including tax but excluding fees (enterprise, shipping or payment method fees).  Fees are recalculated each time an order is modified.
+The **Price** column indicates price of an item including tax but excluding fees (enterprise, shipping or payment method fees). Fees are recalculated each time an order is modified.
 {% endhint %}
 
 ### Examples of using Bulk Order Management:
@@ -193,7 +191,7 @@ This can be done in bulk order management, as follows:
 
 ![](<../../.gitbook/assets/beef tom.jpg>)
 
-You can then adjust the quantity (or delete products) of each unique order in the Quantity column. The Total Quantity Ordered in the box at the top will update automatically as you adjust orders. &#x20;
+You can then adjust the quantity (or delete products) of each unique order in the Quantity column. The Total Quantity Ordered in the box at the top will update automatically as you adjust orders.
 
 {% hint style="danger" %}
 No automated email will be sent to customers after you have adjusted their orders. It is good practice though, to manually do so else the customer may be disappointed on collection/delivery.
@@ -223,11 +221,11 @@ Your customers can view a list of their orders when they login to the OFN, and c
 
 ![](../../.gitbook/assets/account-login.png)
 
-Here your customers will be able to see the past orders and payments as well as a running balance at your shop (and any others on OFN where they have placed an order).&#x20;
+Here your customers will be able to see the past orders and payments as well as a running balance at your shop (and any others on OFN where they have placed an order).
 
 ![](<../../.gitbook/assets/customer account.jpg>)
 
 {% hint style="warning" %}
-For non-automated payments (cash, cheque, bank transfer etc) the customer's 'balance' will display as 'owing' until you have [manually recorded the payment](view-orders.md#editing-an-order). \
-_**If payments are not updated regularly by a shop/hub manager this can be confusing to your customers as they may have in fact paid but it won't be documented above.**_
+For non-automated payments (cash, cheque, bank transfer etc) the customer's 'balance' will display as 'owing' until you have [manually recorded the payment](view-orders.md#editing-an-order).\
+&#xNAN;_**If payments are not updated regularly by a shop/hub manager this can be confusing to your customers as they may have in fact paid but it won't be documented above.**_
 {% endhint %}
