@@ -1,25 +1,28 @@
 ---
-description: Identify the classification of your food enterprise within the OFN platform.
+description: >-
+  Identify the classification of your food enterprise within the GrownHere
+  platform.
 ---
 
-# Where does my business fit in OFN?
+# Where does my business fit in?
 
-Depending on the type of food enterprise you are running, you will use the Open Food Network platform differently.
+Depending on the type of food enterprise you are running, you will use the GrownHere platform differently.
 
-We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
+The software we use classifies food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).\
+Take a look at the&#x20;
 
 ![](<.gitbook/assets/l-flowchart (1).png>)
 
 _The flexibility of the Open Food Network software allows you to change from profile,_ _to shop, to hub (or vice versa) as your business grows and/or needs change._
 
 {% hint style="info" %}
-**Farmer's Markets** can either set up on the platform as a [Group](basic-features/groups/) of individually managed [shop](your-quick-start-on-ofn-given-who-you-are.md#shop) fronts or as a centrally managed [hub](your-quick-start-on-ofn-given-who-you-are.md#hub).  Read more [here](quick-start-guides/digital-farmers-markets.md).
+**Farmer's Markets** can either set up on the platform as a [Group](basic-features/groups/) of individually managed [shop](your-quick-start-on-ofn-given-who-you-are.md#shop) fronts or as a centrally managed [hub](your-quick-start-on-ofn-given-who-you-are.md#hub). Read more [here](quick-start-guides/digital-farmers-markets.md).
 {% endhint %}
 
 ## Hub
 
 {% hint style="success" %}
-Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, Food Coops, Food Hubs, CSA, Market/City Gardens,  Retail Shops, Food Banks, Wholesale Distributors...
+Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, Food Coops, Food Hubs, CSA, Market/City Gardens, Retail Shops, Food Banks, Wholesale Distributors...
 {% endhint %}
 
 Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... (a '**Producer Hub**') or act solely as a distributor to sell a collection of groceries made by (local) enterprises (a '**Non-Producer Hub**').
@@ -47,7 +50,7 @@ _The Hub enterprise has the most flexibility of the three enterprise types in OF
 Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
 {% endhint %}
 
-Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on OFN if you wish to **sell **_**only**_** produce** that **you** make.
+Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on OFN if you wish to **sell \_only**\_\*\* produce\*\* that **you** make.
 
 {% hint style="danger" %}
 If you wish to sell products made by others as well as yourself then it is necessary to register as a '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)'.
