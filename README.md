@@ -2,8 +2,8 @@
 
 | Language version                                                                       | Link to the user guide                 |
 | -------------------------------------------------------------------------------------- | -------------------------------------- |
-| <img src=".gitbook/assets/capture-du-2019-09-26-00-38-19.png" alt="" data-size="line"> | _You are reading the English version!_ |
-|                                                                                        | Coming soon!                           |
+| <img src=".gitbook/assets/capture-du-2019-09-26-00-38-19.png" alt="" data-size="line"> | _You are reading the English version._ |
+| <img src=".gitbook/assets/Welsh Flag.png" alt="" data-size="line">                     | Welsh version - Coming soon!           |
 
 **This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and short food chains wherever you live.**
 
