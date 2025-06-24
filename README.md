@@ -4,7 +4,7 @@ icon: tractor
 
 # Welcome to the GrownHere Platform Guide
 
-| Language version                                                                           | Link to the user guide                 |
+| Language                                                                                   | Link to the translated guide           |
 | ------------------------------------------------------------------------------------------ | -------------------------------------- |
 | <img src=".gitbook/assets/capture-du-2019-09-26-00-38-19.png" alt="" data-size="original"> | _You are reading the English version._ |
 | <img src=".gitbook/assets/Welsh Flag.png" alt="" data-size="original">                     | Welsh version - Coming soon!           |
@@ -15,7 +15,7 @@ icon: tractor
 
 The Open Food Network enables local people to build better, fairer ways to source their food locally and directly from growers, farmers and producers. Expansive networks of small food producers, distributors, retailers, food hubs, food co-ops and buying groups can come together with the aid of the Open Food Network to find the best way of shortening the food supply chain. And in the process it helps to build strong communities.
 
-The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact](broken-reference) to learn more about us!
+The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub.
 
 This short video will give you a brief introduction to how the Open Food Network works, and what we can do for your food business, or organisation.
 
