@@ -6,10 +6,9 @@ description: >-
 
 # Where does my business fit in?
 
-Depending on the type of food enterprise you are running, you will use the GrownHere platform differently.
+Depending on the type of food enterprise you are running, you will use the Open Food Network platform differently.
 
-The software we use classifies food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).\
-Take a look at the&#x20;
+We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
 ![](<.gitbook/assets/l-flowchart (1).png>)
 
