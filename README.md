@@ -3,10 +3,10 @@
 | Language version                                                                       | Link to the user guide                 |
 | -------------------------------------------------------------------------------------- | -------------------------------------- |
 | <img src=".gitbook/assets/capture-du-2019-09-26-00-38-19.png" alt="" data-size="line"> | _You are reading the English version!_ |
-| <img src=".gitbook/assets/capture-du-2019-09-26-00-38-01.png" alt="" data-size="line"> |                                        |
-| <img src=".gitbook/assets/capture-du-2019-09-26-00-37-35.png" alt="" data-size="line"> |                                        |
-| <img src=".gitbook/assets/turkey.jpg" alt="" data-size="line">                         |                                        |
-| <img src="broken-reference" alt="" data-size="line">                                   |                                        |
+|                                                                                        |                                        |
+|                                                                                        |                                        |
+|                                                                                        |                                        |
+|                                                                                        |                                        |
 
 **This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and short food chains wherever you live.**
 
