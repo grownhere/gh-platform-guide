@@ -41,7 +41,7 @@ They are also a great resource for answering any questions you may have.
 
 ### _>_ Guidelines on complementary software you might like to use in combination with the Open Food Network
 
-The Open Food Network does a lot of things, but no one tool can fit all needs. We have listed [some needs for which you might need complementary software, and how you can set them up](complementary-tools-software/) to work hand in hand with your local Open Food Network platform.
+The Open Food Network does a lot of things, but no one tool can fit all needs. We have listed [some needs for which you might need complementary software, and how you can set them up](broken-reference) to work hand in hand with your local Open Food Network platform.
 
 ### > Trouble shooting
 
